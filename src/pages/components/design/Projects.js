@@ -20,7 +20,18 @@ const Projects = () => {
       <div className="container design-projects">
         <div className="intro">
           <h3>UX / UI Design</h3>
-          <p>With 4 years of experience designing web app and mobile. Additional skills HTML5, CSS3, Bootstrap, SASS/LESS, React. </p>
+          <p>
+          With 4 years of experience as a UX / UI designer at Zanroo. 
+          In my most recent role as a UX/UI designer at Zanroo, I worked closely with the product owners to conduct user research and user testing to improve the product and add new features. 
+          Designing a visual for the product and implementing HTML/CSS ready for the development team.
+          <br/>
+          As a self taught designer and have gained invaluable experience working in a competitive environment. 
+          I am keen to expanding upon that experience and improve myself to become better. 
+          <br/>
+          I recently become interested in frontend development and taught myself how to code REACT. 
+          To be able to design and implement a full working website from start to finish is achievement that I really enjoy.
+          </p>
+
           <div className="bottom">
             <div className="software">
               <img src={Ps}/>

@@ -4,7 +4,7 @@ import { Nav, Navbar} from 'react-bootstrap';
 const NavBar = () => {
     return(
         <Navbar>
-            <Navbar.Brand href="/">nune .</Navbar.Brand>
+            <Navbar.Brand href="/">NUNE .</Navbar.Brand>
             <Navbar.Toggle  />
             <Navbar.Collapse className="justify-content-end">  
             <Nav>

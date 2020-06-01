@@ -3,7 +3,7 @@
 
 /* Colors */
   $bgColor: #ffffff;
-  $dotColor: #7059ad;
+  $dotColor: #77777a;
   $borderColor: #E1E1E1;
   $shadowColor: 0 0 10px 0 rgba(0,0,0,0.2);
   $ancherHoverColor: #0190e6;
@@ -155,6 +155,15 @@
       margin-left: 15%;
       .coming-soon {
         margin-top: 50px;
+        .animation-gif {
+          background-image: url('./static/coming_soon_static.png');
+          background-size: contain;
+          background-repeat: no-repeat;
+          height: 300px;
+          background-position: 50%;
+          transition-duration: 1s;
+          opacity: 0;
+        }
         img {
           width: 50%;
           object-position: 0px 50px;
@@ -182,6 +191,10 @@
     .desgin-sketch img,
     .coming-soon img {
       object-position: 0px 0px;
+      opacity: 1;
+    }
+    .coming-soon .animation-gif {
+      background-image: url('./static/coming_soon.gif');
       opacity: 1;
     }
   }
@@ -303,11 +316,11 @@
 /* Project samples */
   .design-projects {
     position: relative;
-    top: 50px;
+    top: 30px;
     display: flex;
     align-items: center;
     .intro {
-      height: calc(100vh - 200px);
+      height: calc(100vh - 130px);
       width: 50%;
       h3 {
         margin-bottom: 20px;
@@ -341,7 +354,6 @@
         }
       }
     }
-
     .project-list {
       text-align: center;
       max-height: calc(100vh - 156px);

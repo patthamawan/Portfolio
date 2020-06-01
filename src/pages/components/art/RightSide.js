@@ -3,7 +3,8 @@ import {} from 'react-bootstrap';
 
 
 import Animation from '../../../static/coming_soon.gif'
-
+import Animation2 from '../../../static/coming.png'
+import Animation3 from '../../../static/Coming_Soon_Animation.png'
 const RightSide = () => {
   return (
     <React.Fragment>
@@ -11,7 +12,8 @@ const RightSide = () => {
         <div className="page-position right-side">
           <h3>Animation & Art</h3>
           <div className="coming-soon">
-            <img src={Animation}/>
+            {/* <div className="animation-gif"/> */}
+            <img src={Animation3}/>
           </div>
         </div>
       </a>

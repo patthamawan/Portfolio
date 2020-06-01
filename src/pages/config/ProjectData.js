@@ -90,7 +90,7 @@ const ProjectData = [
     id: 'project_oscar',
     title: 'Oscars',
     subHeader: "Garage Managment System",
-    detail: "oscar project detail",
+    detail: "OSCARS is a car service management software covering all of garage business-related fields including customer service, invoicing, task management, inventory control and  performance management.",
     icon: 'car.svg',
     images: [
       {
@@ -110,7 +110,7 @@ const ProjectData = [
         img: "search_message_t-m.png",
       },
     ],
-    responsible: "The goal is to create a software that help the employee work faster and less paperwork. I’m in charge of designing the product. Mood and tone, Logo design, UI design and implementing HTML/CSS using SASS and React framework. "
+    responsible: "The goal is to create a software that help the employee work faster and less paperwork. I’m in charge of designing the product. Mood and tone, Logo design, UI design and implementing HTML/CSS using SASS and React framework."
   },
 ]
 

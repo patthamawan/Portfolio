@@ -15,14 +15,13 @@ const About = () => {
               <h1>ABOUT ME .</h1>            
               <div className="text">
                 <p>
-                  My name is Patthamawan Iteeyaporn or Nune for short. I have 4 years experience in UX/UI design and another 4 years in 3d character animation. After 4 years in an animation industry I decided to have a career changed and become a UX/UI designer but also still doing animation as a freelance work.
-                  <br/>
-                  In my most recent role as a UX/UI designer at Zanroo,  I worked closely with the product owners to conduct user research and user testing to improve the product and add new features. Designing a visual for the product and implementing HTML/CSS ready for the development team. Zanroo has many different type of products so I improved upon my team work and communication skills in group assignments, whilst developing my organisation skills and self motivation by working on self innovated projects. 
+                My name is Patthamawan Iteeyaporn or Nune for short. I have 4 years experience in UX/UI design and another 4 years in 3d character animation. 
+                I am a self taught designer and and recently React frontend developer.
+                In my most recent role as a UX/UI designer, I worked closely with the product owners to conduct user research and user testing to improve the product and add new features.
+                Designing a visual for the product and implementing HTML/CSS ready for the development team. Zanroo has many different type of products so I improved upon my team work and 
+                communication skills in group assignments, whilst developing my organisation skills and self motivation by working on self innovated projects.
                 </p>
               </div>
-              <a href="#">
-                <p>Profolio</p>
-              </a>
             </Col>
             <Col lg={7}>
               <div className="photos">
