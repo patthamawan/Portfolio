@@ -12,8 +12,8 @@ const RightSide = () => {
         <div className="page-position right-side">
           <h3>Animation & Art</h3>
           <div className="coming-soon">
-            {/* <div className="animation-gif"/> */}
-            <img src={Animation3}/>
+            <div className="animation-gif"/>
+            
           </div>
         </div>
       </a>

@@ -21,6 +21,9 @@ const About = () => {
                 Designing a visual for the product and implementing HTML/CSS ready for the development team. Zanroo has many different type of products so I improved upon my team work and 
                 communication skills in group assignments, whilst developing my organisation skills and self motivation by working on self innovated projects.
                 </p>
+                <p>
+                  In my sparetime I like to watch movies, listen to music, play video games, drawing and traveling.
+                </p>
               </div>
             </Col>
             <Col lg={7}>

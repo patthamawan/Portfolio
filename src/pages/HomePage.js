@@ -14,7 +14,7 @@ const HomePage = () => {
         <div className="greeting">
           <h1>Hi, i'm nune</h1>
           <p>I’m a UX/UI designer / Junior frontend developer and a freelance 3D Animator based in London, UK.</p> 
-          <p>I'm passionate creating entertaining platingform or solving and creating beautiful web</p>
+          
         </div>
         <div className="face">
           <Eyes/>

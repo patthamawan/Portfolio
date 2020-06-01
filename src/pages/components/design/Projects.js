@@ -22,9 +22,6 @@ const Projects = () => {
           <h3>UX / UI Design</h3>
           <p>
           With 4 years of experience as a UX / UI designer at Zanroo. 
-          In my most recent role as a UX/UI designer at Zanroo, I worked closely with the product owners to conduct user research and user testing to improve the product and add new features. 
-          Designing a visual for the product and implementing HTML/CSS ready for the development team.
-          <br/>
           As a self taught designer and have gained invaluable experience working in a competitive environment. 
           I am keen to expanding upon that experience and improve myself to become better. 
           <br/>
