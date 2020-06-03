@@ -1,0 +1,936 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="3383" viewBox="0 0 1280 3383">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-3" x="-45" y="-928" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-45" y="-928" fill="black"/>
+      <use fill="white" xlink:href="#path-1"/>
+    </mask>
+    <path id="path-6" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-7" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-8" x="-45" y="-833" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-45" y="-833" fill="black"/>
+      <use fill="white" xlink:href="#path-6"/>
+    </mask>
+    <path id="path-14" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-15" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-16" x="-45" y="-738" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-45" y="-738" fill="black"/>
+      <use fill="white" xlink:href="#path-14"/>
+    </mask>
+    <rect id="rect-32" width="89" height="89" x="265" y="513"/>
+    <filter id="filter-33" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.4117647058823529  0 0 0 0 0.6470588235294118  0 0 0 0 1  0 0 0 0.4 0"/>
+    </filter>
+    <rect id="rect-34" width="89" height="89" x="45" y="513"/>
+    <filter id="filter-35" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.2  0 0 0 0 0.8  0 0 0 0 0.6862745098039216  0 0 0 0.4 0"/>
+    </filter>
+    <rect id="rect-36" width="89" height="89" x="156" y="513"/>
+    <filter id="filter-37" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 1  0 0 0 0 0.4117647058823529  0 0 0 0 0.4117647058823529  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-38" fill-rule="evenodd" d="M688 864h384c4.4153202 0 8 3.5846798 8 8v15c0 4.4153202-3.5846798 8-8 8H688c-4.4153202 0-8-3.5846798-8-8v-15c0-4.4153202 3.5846798-8 8-8z"/>
+    <mask id="mask-39" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-38"/>
+    </mask>
+    <path id="path-41" fill-rule="evenodd" d="M690 738h380c5.51915024 0 10 4.48084976 10 10v28c0 5.51915024-4.48084976 10-10 10H690c-5.51915024 0-10-4.48084976-10-10v-28c0-5.51915024 4.48084976-10 10-10z"/>
+    <mask id="mask-42" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-41"/>
+    </mask>
+    <path id="path-44" fill-rule="evenodd" d="M10 0h380c5.51915024 0 10 4.48084976 10 10v18c0 5.51915024-4.48084976 10-10 10H10C4.48084976 38 0 33.51915024 0 28V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-45" x="-680" y="-806" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680" y="-806" fill="black"/>
+      <use fill="white" xlink:href="#path-44"/>
+    </mask>
+    <rect id="rect-48" width="20" height="20" x="360" y="14"/>
+    <mask id="mask-49" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-48"/>
+    </mask>
+    <path id="path-52" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v140c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-53" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-54" fill-rule="evenodd" d="M53 1210h224c4.4153202 0 8 3.5846798 8 8v125c0 4.4153202-3.5846798 8-8 8H53c-4.4153202 0-8-3.5846798-8-8v-125c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-55" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-56" fill-rule="evenodd" d="M128 1293h74c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8h-74c-4.4153202 0-8-3.5846798-8-8v-22c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-57" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="6.024"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-58" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-59" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="6.024"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-60" fill-rule="evenodd" d="M13 0h84c7.17489532 0 13 5.82510468 13 13s-5.82510468 13-13 13H13C5.82510468 26 0 20.17489532 0 13S5.82510468 0 13 0z"/>
+    <mask id="mask-61" x="-297" y="-2665" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-297" y="-2665" fill="black"/>
+      <use fill="white" xlink:href="#path-60"/>
+    </mask>
+    <path id="path-62" fill-rule="evenodd" d="M10 0h380c5.51915024 0 10 4.48084976 10 10v18c0 5.51915024-4.48084976 10-10 10H10C4.48084976 38 0 33.51915024 0 28V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-63" x="-680" y="-1175" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680" y="-1175" fill="black"/>
+      <use fill="white" xlink:href="#path-62"/>
+    </mask>
+    <path id="path-65" fill-rule="evenodd" d="M10 0h380c5.51915024 0 10 4.48084976 10 10v18c0 5.51915024-4.48084976 10-10 10H10C4.48084976 38 0 33.51915024 0 28V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-66" x="-680" y="-1228" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680" y="-1228" fill="black"/>
+      <use fill="white" xlink:href="#path-65"/>
+    </mask>
+    <mask id="mask-67" x="-680" y="-1228" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680" y="-1228" fill="white"/>
+      <use fill="black" xlink:href="#path-65"/>
+    </mask>
+    <path id="path-68" fill-rule="evenodd" d="M10 0h210c5.51915024 0 10 4.48084976 10 10v171c0 5.51915024-4.48084976 10-10 10H10c-5.51915024 0-10-4.48084976-10-10V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <filter id="filter-69" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-70" x="-45" y="-1452" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-45" y="-1452" fill="black"/>
+      <use fill="white" xlink:href="#path-68"/>
+    </mask>
+    <path id="path-76" fill-rule="evenodd" d="M20 0h412.00002c11.03830049 0 20 8.96169951 20 20v265.00002c0 11.03830049-8.96169951 20-20 20H20c-11.03830049 0-20-8.96169951-20-20V20C0 8.96169951 8.96169951 0 20 0z"/>
+    <filter id="filter-77" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.07450980392156863  0 0 0 0 0.10980392156862745  0 0 0 0 0.16862745098039217  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-78" x="-680.5" y="-1778" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680.5" y="-1778" fill="black"/>
+      <use fill="white" xlink:href="#path-76"/>
+    </mask>
+    <path id="path-80" fill-rule="evenodd" d="M20 0h412.00002c11.03830049 0 20 8.96169951 20 20v265.00002c0 11.03830049-8.96169951 20-20 20H20c-11.03830049 0-20-8.96169951-20-20V20C0 8.96169951 8.96169951 0 20 0z"/>
+    <filter id="filter-81" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.07450980392156863  0 0 0 0 0.10980392156862745  0 0 0 0 0.16862745098039217  0 0 0 0.2 0"/>
+    </filter>
+    <mask id="mask-82" x="-680" y="-1452" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-680" y="-1452" fill="black"/>
+      <use fill="white" xlink:href="#path-80"/>
+    </mask>
+    <path id="path-85" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-86" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="6.024"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-88" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-89" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="6.024"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-91" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <filter id="filter-92" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="6.024"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.14901960784313725  0 0 0 0 0.2  0 0 0 0 0.2823529411764706  0 0 0 0.2 0"/>
+    </filter>
+    <path id="path-94" fill-rule="evenodd" d="M13 0h79c7.17489532 0 13 5.82510468 13 13s-5.82510468 13-13 13H13C5.82510468 26 0 20.17489532 0 13S5.82510468 0 13 0z"/>
+    <filter id="filter-95" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.4117647058823529  0 0 0 0 0.6470588235294118  0 0 0 0 1  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-96" fill-rule="evenodd" d="M13 0h74c7.17489532 0 13 5.82510468 13 13s-5.82510468 13-13 13H13C5.82510468 26 0 20.17489532 0 13S5.82510468 0 13 0z"/>
+    <filter id="filter-97" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 1  0 0 0 0 0.4117647058823529  0 0 0 0 0.4117647058823529  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-98" fill-rule="evenodd" d="M13 0h84c7.17489532 0 13 5.82510468 13 13s-5.82510468 13-13 13H13C5.82510468 26 0 20.17489532 0 13S5.82510468 0 13 0z"/>
+    <filter id="filter-99" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.2  0 0 0 0 0.8  0 0 0 0 0.6862745098039216  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-100" fill-rule="evenodd" d="M15 0h117c8.27872537 0 15 6.72127463 15 15s-6.72127463 15-15 15H15C6.72127463 30 0 23.27872537 0 15S6.72127463 0 15 0z"/>
+    <mask id="mask-101" x="-468.5" y="-2663" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-468.5" y="-2663" fill="black"/>
+      <use fill="white" xlink:href="#path-100"/>
+    </mask>
+    <path id="path-102" fill-rule="evenodd" d="M15 0h104c8.27872537 0 15 6.72127463 15 15s-6.72127463 15-15 15H15C6.72127463 30 0 23.27872537 0 15S6.72127463 0 15 0z"/>
+    <filter id="filter-103" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.4117647058823529  0 0 0 0 0.6470588235294118  0 0 0 0 1  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-104" fill-rule="evenodd" d="M15 0h97c8.27872537 0 15 6.72127463 15 15s-6.72127463 15-15 15H15C6.72127463 30 0 23.27872537 0 15S6.72127463 0 15 0z"/>
+    <filter id="filter-105" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 1  0 0 0 0 0.4117647058823529  0 0 0 0 0.4117647058823529  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-106" fill-rule="evenodd" d="M15 0h113c8.27872537 0 15 6.72127463 15 15s-6.72127463 15-15 15H15C6.72127463 30 0 23.27872537 0 15S6.72127463 0 15 0z"/>
+    <filter id="filter-107" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.2  0 0 0 0 0.8  0 0 0 0 0.6862745098039216  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-108" fill-rule="evenodd" d="M19 0h120c10.48638547 0 19 8.51361453 19 19s-8.51361453 19-19 19H19C8.51361453 38 0 29.48638547 0 19S8.51361453 0 19 0z"/>
+    <mask id="mask-109" x="-675" y="-2642" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-675" y="-2642" fill="black"/>
+      <use fill="white" xlink:href="#path-108"/>
+    </mask>
+    <path id="path-110" fill-rule="evenodd" d="M19 0h92c10.48638547 0 19 8.51361453 19 19s-8.51361453 19-19 19H19C8.51361453 38 0 29.48638547 0 19S8.51361453 0 19 0z"/>
+    <filter id="filter-111" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.4117647058823529  0 0 0 0 0.6470588235294118  0 0 0 0 1  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-112" fill-rule="evenodd" d="M19 0h100c10.48638547 0 19 8.51361453 19 19s-8.51361453 19-19 19H19C8.51361453 38 0 29.48638547 0 19S8.51361453 0 19 0z"/>
+    <filter id="filter-113" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.2  0 0 0 0 0.8  0 0 0 0 0.6862745098039216  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-114" fill-rule="evenodd" d="M19 0h86c10.48638547 0 19 8.51361453 19 19s-8.51361453 19-19 19H19C8.51361453 38 0 29.48638547 0 19S8.51361453 0 19 0z"/>
+    <filter id="filter-115" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 1  0 0 0 0 0.4117647058823529  0 0 0 0 0.4117647058823529  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-116" fill-rule="evenodd" d="M13 0h89c7.17489532 0 13 5.82510468 13 13s-5.82510468 13-13 13H13C5.82510468 26 0 20.17489532 0 13S5.82510468 0 13 0z"/>
+    <filter id="filter-117" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.9764705882352941  0 0 0 0 0.7803921568627451  0 0 0 0 0.23921568627450981  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-118" fill-rule="evenodd" d="M15 0h116c8.27872537 0 15 6.72127463 15 15s-6.72127463 15-15 15H15C6.72127463 30 0 23.27872537 0 15S6.72127463 0 15 0z"/>
+    <filter id="filter-119" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.9764705882352941  0 0 0 0 0.7803921568627451  0 0 0 0 0.23921568627450981  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-120" fill-rule="evenodd" d="M19 0h106c10.48638547 0 19 8.51361453 19 19s-8.51361453 19-19 19H19C8.51361453 38 0 29.48638547 0 19S8.51361453 0 19 0z"/>
+    <filter id="filter-121" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="9.036"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.9764705882352941  0 0 0 0 0.7803921568627451  0 0 0 0 0.23921568627450981  0 0 0 0.4 0"/>
+    </filter>
+    <path id="path-122" fill-rule="evenodd" d="M10 0h128c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-123" x="-41" y="-2733" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-41" y="-2733" fill="black"/>
+      <use fill="white" xlink:href="#path-122"/>
+    </mask>
+    <path id="path-124" fill-rule="evenodd" d="M10 0h114c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-125" x="-41" y="-2772" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-41" y="-2772" fill="black"/>
+      <use fill="white" xlink:href="#path-124"/>
+    </mask>
+    <path id="path-126" fill-rule="evenodd" d="M10 0h120c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-127" x="-41" y="-2811" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-41" y="-2811" fill="black"/>
+      <use fill="white" xlink:href="#path-126"/>
+    </mask>
+    <path id="path-128" fill-rule="evenodd" d="M10 0h134c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-129" x="-41" y="-2694" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-41" y="-2694" fill="black"/>
+      <use fill="white" xlink:href="#path-128"/>
+    </mask>
+    <path id="path-130" fill-rule="evenodd" d="M4 0h7c2.2076601 0 4 1.7923399 4 4v7c0 2.2076601-1.7923399 4-4 4H4c-2.2076601 0-4-1.7923399-4-4V4c0-2.2076601 1.7923399-4 4-4z"/>
+    <mask id="mask-131" x="-36" y="-2600" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-36" y="-2600" fill="black"/>
+      <use fill="white" xlink:href="#path-130"/>
+    </mask>
+    <rect id="rect-132" width="10" height="10" x="2.5" y="2.5"/>
+    <mask id="mask-133" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-132"/>
+    </mask>
+    <path id="path-149" fill-rule="evenodd" d="M10 0h153c5.51915024 0 10 4.48084976 10 10v18c0 5.51915024-4.48084976 10-10 10H10C4.48084976 38 0 33.51915024 0 28V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-150" x="-158" y="-2467" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1280" height="3383" x="-158" y="-2467" fill="black"/>
+      <use fill="white" xlink:href="#path-149"/>
+    </mask>
+  </defs>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="697" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Alerts and Notifications</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="680" y="1421" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Modals</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="680" y="697" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Input boxes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="1421" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Dropdown menu</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="1725" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Badges</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="1770" fill="rgb(0,0,0)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:uppercase" letter-spacing="3">Basic</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="1881" fill="rgb(0,0,0)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:uppercase" letter-spacing="3">PILL</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="33" y="2421" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">BUTTONS</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="55" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Primary colour</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="472" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">editional colour</tspan>
+  </text>
+  <g transform="translate(45 928)">
+    <g>
+      <use fill="black" stroke="black" stroke-width="2" filter="url(#filter-2)" xlink:href="#path-1"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-1"/>
+      <use fill-opacity="0" stroke="rgb(255,105,105)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4" mask="url(#mask-3)" xlink:href="#path-1"/>
+    </g>
+    <g>
+      <g>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="34.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Error Alert title</tspan>
+        </text>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="55.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">error alert message</tspan>
+        </text>
+      </g>
+      <path fill="rgb(255,105,105)" fill-rule="evenodd" d="M70 40c0-13.80624962-11.19374847-25-25-25-13.80624962 0-25 11.19375038-25 25 0 13.80625153 11.19375038 25 25 25 13.80625153 0 25-11.19374847 25-25zm-6.25 0c0 10.35625076-8.39374924 18.75-18.75 18.75S26.25 50.35625076 26.25 40 34.64374924 21.25 45 21.25 63.75 29.64374924 63.75 40zM51.62187576 51.046875c.59375.58750153 1.38437271.91562653 2.21875.91562653l2.20937348-.91249848c.58750152-.58750152.91875076-1.38125229.91875076-2.20625305 0-.83437347-.32500076-1.625-.91875076-2.21875l-6.625-6.625 6.62187576-6.63124847c.79375076-.79062653 1.10312653-1.94062615.8125-3.01875115-.29062653-1.078125-1.13437653-1.921875-2.21250153-2.20937538-1.078125-.29062462-2.2281227.01875114-3.02187347.8125l-6.625 6.625-6.63124847-6.62187386c-.79062653-.79375076-1.94062806-1.10312652-3.01875306-.8125-1.078125.28749848-1.92499923 1.13124848-2.2124977 2.20937348-.2875023 1.078125.01874923 2.22812462.8125 3.02187538l6.625 6.625-6.62187577 6.62812805c-1.21875 1.22187042-1.21875 3.19999695 0 4.41874695s3.203125 1.21875 4.421875 0l6.625-6.625 6.62187576 6.625z"/>
+    </g>
+    <g opacity=".4">
+      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M379.1268371 20l-3.88600716-3.88600716c-.24082994-.24082994-.24082994-.63233297 0-.8731629.24082993-.24082994.63233296-.24082994.8731629 0L380 19.1268371l3.88600716-3.88600716c.24082994-.24082994.63233297-.24082994.8731629 0 .24082994.24082993.24082994.63233296 0 .8731629L380.8731629 20l3.88600716 3.88600716c.24082994.24082994.24082994.63233297 0 .8731629-.24082993.24082994-.63233296.24082994-.8731629 0L380 20.8731629l-3.88600716 3.88600716c-.24082994.24082994-.63233297.24082994-.8731629 0-.24082994-.24082993-.24082994-.63233296 0-.8731629"/>
+    </g>
+  </g>
+  <g transform="translate(45 833)">
+    <g>
+      <use fill="black" stroke="black" stroke-width="2" filter="url(#filter-7)" xlink:href="#path-6"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-6"/>
+      <use fill-opacity="0" stroke="rgb(105,165,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4" mask="url(#mask-8)" xlink:href="#path-6"/>
+    </g>
+    <path fill="rgb(19,28,43)" fill-opacity=".4" fill-rule="evenodd" d="M379.1268371 20.5l-3.88600716-3.88600716c-.24082994-.24082994-.24082994-.63233297 0-.8731629.24082993-.24082994.63233296-.24082994.8731629 0L380 19.6268371l3.88600716-3.88600716c.24082994-.24082994.63233297-.24082994.8731629 0 .24082994.24082993.24082994.63233296 0 .8731629L380.8731629 20.5l3.88600716 3.88600716c.24082994.24082994.24082994.63233297 0 .8731629-.24082993.24082994-.63233296.24082994-.8731629 0L380 21.3731629l-3.88600716 3.88600716c-.24082994.24082994-.63233297.24082994-.8731629 0-.24082994-.24082993-.24082994-.63233296 0-.8731629"/>
+    <g>
+      <g>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="34.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Info Alert title</tspan>
+        </text>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="55.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">info alert message</tspan>
+        </text>
+      </g>
+      <g>
+        <path fill="rgb(105,165,255)" fill-rule="evenodd" d="M33.74375153 64.66249847C34.13437653 64.88749695 34.56562423 65 35 65l1.23749924-.328125L53.16249847 55H60c5.515625 0 10-4.48749924 10-10V25c0-5.51250076-4.484375-10-10-10H30c-5.515625 0-10 4.48749924-10 10v20c0 5.51250076 4.484375 10 10 10h2.5v7.5c0 .890625.47187424 1.71562195 1.24375153 2.16249847zM25 25c0-2.75625038 2.24374962-5 5-5l30 .00312424c2.75624847 0 5 2.24375152 5 5v20c0 2.75625229-2.24375153 5-5 5h-7.5c-.43437576 0-.86249924.11249923-1.24062347.328125L37.5 58.19374847V52.5c0-1.38124847-1.11875153-2.5-2.5-2.5h-5c-2.75625038 0-5-2.24375153-5-5V25z"/>
+        <path fill="rgb(105,165,255)" fill-rule="evenodd" d="M40 35c0 1.38125-1.11875 2.5-2.5 2.5S35 36.38125 35 35s1.11875-2.5 2.5-2.5S40 33.61875 40 35z"/>
+        <path fill="rgb(105,165,255)" fill-rule="evenodd" d="M47.5 35c0 1.38125-1.11875 2.5-2.5 2.5s-2.5-1.11875-2.5-2.5 1.11875-2.5 2.5-2.5 2.5 1.11875 2.5 2.5z"/>
+        <path fill="rgb(105,165,255)" fill-rule="evenodd" d="M55 35c0 1.38125-1.11875 2.5-2.5 2.5S50 36.38125 50 35s1.11875-2.5 2.5-2.5S55 33.61875 55 35z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(45 738)">
+    <g>
+      <use fill="black" stroke="black" stroke-width="2" filter="url(#filter-15)" xlink:href="#path-14"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-14"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4" mask="url(#mask-16)" xlink:href="#path-14"/>
+    </g>
+    <g opacity=".4">
+      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M379.1268371 20l-3.88600716-3.88600716c-.24082994-.24082994-.24082994-.63233297 0-.8731629.24082993-.24082994.63233296-.24082994.8731629 0L380 19.1268371l3.88600716-3.88600716c.24082994-.24082994.63233297-.24082994.8731629 0 .24082994.24082993.24082994.63233296 0 .8731629L380.8731629 20l3.88600716 3.88600716c.24082994.24082994.24082994.63233297 0 .8731629-.24082993.24082994-.63233296.24082994-.8731629 0L380 20.8731629l-3.88600716 3.88600716c-.24082994.24082994-.63233297.24082994-.8731629 0-.24082994-.24082993-.24082994-.63233296 0-.8731629"/>
+    </g>
+    <g>
+      <g>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="34.25" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Waring Alert title</tspan>
+        </text>
+        <text font-size="0" style="white-space:pre">
+          <tspan x="90" y="55.75" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">warning alert message</tspan>
+        </text>
+      </g>
+      <g>
+        <path fill="rgb(255,210,83)" fill-rule="evenodd" d="M47.50696915 53.01439068c.06167042 1.46165951-1.16145964 2.74342246-2.50793056 2.74342246-1.39786293 0-2.56960097-1.28176295-2.56960097-2.81088366 0-1.52912072 1.17173804-2.81088367 2.56960097-2.81088367 1.40814134 0 2.56960098 1.27051942 2.50793056 2.87834487z"/>
+        <path fill="rgb(249,199,61)" fill-rule="evenodd" d="M68.80381584 50.38340378c1.60343933 3.03575516 1.5931549 6.66741562-.02055359 9.71441269C67.15927696 63.16730117 64.27103996 65 61.0539074 65H28.9030571c-3.20686149 0-6.07453536-1.81021118-7.67796706-4.8234787-1.6239872-3.04699707-1.6342659-6.70114517-.0308342-9.77062988l16.11653519-30.52619744C38.90394592 16.83269691 41.7818985 15 45.00931549 15c3.2274208 0 6.10537338 1.8214531 7.69852257 4.8909378l16.09597778 30.49246598zM61.04362297 60.5812912c1.76789093 0 3.35076141-1.00067902 4.24497986-2.68721008.88394928-1.67528534.89422607-3.6541443.03083801-5.29570008L49.21318436 22.08342552c-.87366486-1.67528534-2.44626236-2.67596054-4.20386887-2.67596054-1.7678833 0-3.3302002.98943138-4.20386505 2.66471672l-16.1165371 30.51495361c-.88394355 1.68653107-.87366485 3.68788147.0102787 5.36316681.87366296 1.65280152 2.44625855 2.63098908 4.19358826 2.63098908h32.15084267z"/>
+        <path fill="rgb(255,210,83)" fill-rule="evenodd" d="M47.33223628 31.98898087c.17473287.44974139.2364033.89948278.2364033 1.40544184-.06167043 1.40544183-.17473287 2.81088366-.2364033 4.2163255-.11306244 2.17000218-.23640329 4.34000437-.34946573 6.51000656-.06167042.70834268-.06167042 1.34922416-.06167042 2.0463233-.05139202 1.15808408-.87366434 2.04632332-1.92206154 2.04632332-1.0483972 0-1.8603911-.83202157-1.92206153-1.9788621-.17473286-3.38430394-.34946573-6.70114666-.5241986-10.0854506-.06167042-.88823923-.11306244-1.787722-.17473286-2.67596124 0-1.47290304.76060189-2.68720479 1.98373195-3.06948496 1.22313007-.31481897 2.44626013.3260625 2.97045873 1.58533838z"/>
+      </g>
+    </g>
+  </g>
+  <rect width="89" height="89" x="45" y="96" fill="rgb(249,199,61)"/>
+  <rect width="89" height="89" x="156" y="96" fill="rgb(249,199,61)" fill-opacity=".8"/>
+  <rect width="89" height="89" x="374" y="96" fill="rgb(249,199,61)" fill-opacity=".4"/>
+  <rect width="89" height="89" x="265" y="96" fill="rgb(249,199,61)" fill-opacity=".6"/>
+  <rect width="89" height="89" x="483" y="96" fill="rgb(249,199,61)" fill-opacity=".2"/>
+  <rect width="89" height="89" x="45" y="205" fill="rgb(19,28,43)"/>
+  <rect width="89" height="89" x="156" y="205" fill="rgb(19,28,43)" fill-opacity=".8"/>
+  <rect width="89" height="89" x="265" y="205" fill="rgb(19,28,43)" fill-opacity=".6"/>
+  <rect width="89" height="89" x="374" y="205" fill="rgb(19,28,43)" fill-opacity=".4"/>
+  <rect width="89" height="89" x="483" y="205" fill="rgb(19,28,43)" fill-opacity=".2"/>
+  <rect width="89" height="89" x="45" y="314" fill="rgb(247,247,249)"/>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-33)" xlink:href="#rect-32"/>
+    <use fill="rgb(105,165,255)" xlink:href="#rect-32"/>
+  </g>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-35)" xlink:href="#rect-34"/>
+    <use fill="rgb(51,204,175)" xlink:href="#rect-34"/>
+  </g>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-37)" xlink:href="#rect-36"/>
+    <use fill="rgb(255,105,105)" xlink:href="#rect-36"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="680" y="55" fill="rgb(0,0,0)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:uppercase" letter-spacing="5.143" text-decoration="underline">Typographic Scale</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 96)">
+    <tspan x="0" y="35" fill="rgb(19,28,43)" font-family="Athiti" font-size="48" font-weight="700" style="white-space:pre;text-transform:none">Header 1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 301)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Title</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 333)">
+    <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Caption</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 158)">
+    <tspan x="0" y="25" fill="rgb(19,28,43)" font-family="Athiti" font-size="34" font-weight="700" style="white-space:pre;text-transform:none">Header 2</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 210)">
+    <tspan x="0" y="18" fill="rgb(19,28,43)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:none">Header 3</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(680 255)">
+    <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="18" font-weight="700" style="white-space:pre;text-transform:none">Header 4</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="680" y="380" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">Apparently we had reached a great height in the </tspan> <tspan x="680" y="402" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">atmosphere, for the sky was a dead black, and the stars </tspan> <tspan x="680" y="424" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">had ceased to twinkle. By the same illusion which lifts </tspan> <tspan x="680" y="446" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">the horizon of the sea to the level of the spectator on a </tspan> <tspan x="680" y="468" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">hillside, the sable cloud beneath was dished out, and </tspan> <tspan x="680" y="490" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">the car seemed to float in the middle of an immense</tspan> <tspan x="680" y="512" fill="rgb(19,28,43)" font-family="Sukhumvit Set" font-size="13" font-weight="400" style="white-space:pre;text-transform:none"> dark sphere, whose upper half..</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1176" y="107" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Text 16</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1185" y="158" fill="rgb(19,28,43)" font-family="Athiti" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">Text 13</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1187" y="183" fill="rgb(19,28,43)" font-family="Athiti" font-size="12" font-weight="400" style="white-space:pre;text-transform:none">Text 12</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1181" y="133" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Text 14</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1193" y="209" fill="rgb(19,28,43)" font-family="Athiti" font-size="10" font-weight="400" style="white-space:pre;text-transform:none">Text 10</tspan>
+  </text>
+  <g>
+    <use fill="rgb(255,255,255)" xlink:href="#path-38"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-39)" xlink:href="#path-38"/>
+  </g>
+  <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M688 1039h384c4.4153202 0 8 3.5846798 8 8v15c0 4.4153202-3.5846798 8-8 8H688c-4.4153202 0-8-3.5846798-8-8v-15c0-4.4153202 3.5846798-8 8-8z"/>
+  <g>
+    <use fill="rgb(255,255,255)" xlink:href="#path-41"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-42)" xlink:href="#path-41"/>
+  </g>
+  <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M690 913.5h380c5.51915024 0 10 4.48084976 10 10v28c0 5.51915024-4.48084976 10-10 10H690c-5.51915024 0-10-4.48084976-10-10v-28c0-5.51915024 4.48084976-10 10-10z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="768.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">Large input</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="701" y="944" fill="rgb(19,28,43)" font-family="Athiti" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">Large input</tspan>
+  </text>
+  <g transform="translate(680 806)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-44"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-45)" xlink:href="#path-44"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="24.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Default input</tspan>
+    </text>
+  </g>
+  <g transform="translate(680 981.5)">
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M10 0h380c5.51915024 0 10 4.48084976 10 10v18c0 5.51915024-4.48084976 10-10 10H10C4.48084976 38 0 33.51915024 0 28V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="24.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Default input</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="884" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Small input</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="701" y="1059.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Small input</tspan>
+  </text>
+  <g transform="translate(680 1085)">
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M24 0h352c13.24596059 0 24 10.75403941 24 24s-10.75403941 24-24 24H24C10.75403941 48 0 37.24596059 0 24S10.75403941 0 24 0z"/>
+    <g opacity=".2">
+      <use fill="none" xlink:href="#rect-48"/>
+      <g mask="url(#mask-49)">
+        <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M360 21.5c0 4.13624954 3.36373901 7.5 7.5 7.5s7.5-3.36375046 7.5-7.5-3.36373901-7.5-7.5-7.5-7.5 3.36375046-7.5 7.5zm2.5 0c0-2.7574997 2.24249268-5 5-5s5 2.2425003 5 5-2.24249268 5-5 5-5-2.2425003-5-5z"/>
+        <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M378.75 34c-.32 0-.64-.1225-.88375-.36625l-6.25-6.25c-.48875-.48875-.48875-1.27875 0-1.7675s1.27875-.48875 1.7675 0l6.25 6.25c.48875.48875.48875 1.27875 0 1.7675C379.39 33.8775 379.07 34 378.75 34z"/>
+      </g>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="30.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">Enter Text</tspan>
+    </text>
+  </g>
+  <g transform="translate(45 1029)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-53)" xlink:href="#path-52"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-52"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="89" y="34" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Notification Titl</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="36.796" y="60" fill="rgb(19,28,43)" font-family="Athiti" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">Notification messages. Message detail will</tspan> <tspan x="115.778" y="75" fill="rgb(19,28,43)" font-family="Athiti" font-size="13" font-weight="400" style="white-space:pre;text-transform:none"> display here</tspan>
+    </text>
+  </g>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-55)" xlink:href="#path-54"/>
+    <use fill="rgb(255,255,255)" xlink:href="#path-54"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="108" y="1244" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Notification Titl</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="107" y="1270" fill="rgb(19,28,43)" font-family="Athiti" font-size="13" font-weight="400" style="white-space:pre;text-transform:none">Notification messages.</tspan>
+  </text>
+  <g>
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-57)" xlink:href="#path-56"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-56"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="147.12" y="1317.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ตกลง</tspan>
+    </text>
+  </g>
+  <g transform="translate(36 2467)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-59)" xlink:href="#path-58"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-58"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Primary</tspan>
+    </text>
+  </g>
+  <g transform="translate(297 2665)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-60"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-61)" xlink:href="#path-60"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.276" y="17" fill="rgb(19,28,43)" font-family="Athiti" font-size="12" font-weight="500" style="white-space:pre;text-transform:none">Label small white</tspan>
+    </text>
+  </g>
+  <g transform="translate(680 1148)">
+    <g transform="translate(0 27)">
+      <g>
+        <use fill="rgb(255,255,255)" xlink:href="#path-62"/>
+        <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-63)" xlink:href="#path-62"/>
+      </g>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="20" y="24.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Default input</tspan>
+      </text>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Title</tspan>
+    </text>
+  </g>
+  <g transform="translate(36 2540)">
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" opacity=".6">
+      <tspan x="24" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Cancel</tspan>
+    </text>
+  </g>
+  <g transform="translate(680 1228)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-65"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-66)" xlink:href="#path-65"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity=".2" stroke-width="4" mask="url(#mask-67)" xlink:href="#path-65"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="24.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Text box selected</tspan>
+    </text>
+  </g>
+  <g transform="translate(45 1452)">
+    <use fill="black" stroke="black" stroke-width="1" filter="url(#filter-69)" xlink:href="#path-68"/>
+    <use fill="rgb(255,255,255)" xlink:href="#path-68"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-70)" xlink:href="#path-68"/>
+  </g>
+  <path fill="none" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M45 1563h230"/>
+  <g transform="translate(50 1489)">
+    <path fill="none" d="M8 0h204c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="15" y="21" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Action</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M58 1521h204c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H58c-4.4153202 0-8-3.5846798-8-8v-16c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="65" y="1542" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Another action</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 1574)">
+    <path fill="none" d="M8 0h204c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="15" y="21" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Active action</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 1606)">
+    <path fill="none" d="M8 0h204c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="15" y="21" fill="rgb(208,210,213)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">Disable action</tspan>
+    </text>
+  </g>
+  <g transform="translate(680.49999 1778)">
+    <g>
+      <use fill="black" stroke="black" stroke-width="1" filter="url(#filter-77)" xlink:href="#path-76"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-76"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-78)" xlink:href="#path-76"/>
+    </g>
+    <rect width="450.493" height="170" x=".753" y="57" fill="rgb(247,247,249)"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="170.178" y="35" fill="rgb(19,28,43)" font-family="Athiti" font-size="18" font-weight="700" style="white-space:pre;text-transform:none">Modal Header</tspan>
+    </text>
+  </g>
+  <g transform="translate(680 1452)">
+    <g>
+      <use fill="black" stroke="black" stroke-width="1" filter="url(#filter-81)" xlink:href="#path-80"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-80"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-82)" xlink:href="#path-80"/>
+    </g>
+    <rect width="450.493" height="170" x=".753" y="57" fill="rgb(247,247,249)"/>
+    <g opacity=".4">
+      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M423.19025565 27.5l-5.82901074-5.82901074c-.36124491-.36124491-.36124491-.94849945 0-1.30974435.3612449-.36124491.94849944-.36124491 1.30974435 0L424.5 26.19025565l5.82901074-5.82901074c.36124491-.36124491.94849945-.36124491 1.30974435 0 .36124491.3612449.36124491.94849944 0 1.30974435L425.80974435 27.5l5.82901074 5.82901074c.36124491.36124491.36124491.94849945 0 1.30974435-.3612449.36124491-.94849944.36124491-1.30974435 0L424.5 28.80974435l-5.82901074 5.82901074c-.36124491.36124491-.94849945.36124491-1.30974435 0-.36124491-.3612449-.36124491-.94849944 0-1.30974435"/>
+    </g>
+    <text font-size="0" style="white-space:pre" transform="translate(20 20)">
+      <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="18" font-weight="700" style="white-space:pre;text-transform:none">Modal He</tspan>
+    </text>
+  </g>
+  <g transform="translate(1017 1699)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-86)" xlink:href="#path-85"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-85"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29.5" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ตกลง</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 1457)">
+    <path fill="none" d="M8 0h204c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="15" y="21" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">Header</tspan>
+    </text>
+  </g>
+  <g transform="translate(201 1127)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-89)" xlink:href="#path-88"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-88"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29.5" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ตกลง</tspan>
+    </text>
+  </g>
+  <g transform="translate(91 1127)">
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" opacity=".6">
+      <tspan x="26.5" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ยกเลิก</tspan>
+    </text>
+  </g>
+  <g transform="translate(914 2025)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-92)" xlink:href="#path-91"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-91"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29.5" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ตกลง</tspan>
+    </text>
+  </g>
+  <g transform="translate(804 2025)">
+    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M8 0h79c4.4153202 0 8 3.5846798 8 8v22c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" opacity=".6">
+      <tspan x="26.5" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ยกเลิก</tspan>
+    </text>
+  </g>
+  <g transform="translate(297 2706)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-95)" xlink:href="#path-94"/>
+      <use fill="rgb(105,165,255)" xlink:href="#path-94"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.89" y="17" fill="rgb(255,255,255)" font-family="Athiti" font-size="12" font-weight="500" style="white-space:pre;text-transform:none">Label small blue</tspan>
+    </text>
+  </g>
+  <g transform="translate(297 2788)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-97)" xlink:href="#path-96"/>
+      <use fill="rgb(255,105,105)" xlink:href="#path-96"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.964" y="17" fill="rgb(255,255,255)" font-family="Athiti" font-size="12" font-weight="500" style="white-space:pre;text-transform:none">Label small red</tspan>
+    </text>
+  </g>
+  <g transform="translate(297 2747)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-99)" xlink:href="#path-98"/>
+      <use fill="rgb(51,204,175)" xlink:href="#path-98"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="9.976" y="17" fill="rgb(255,255,255)" font-family="Athiti" font-size="12" font-weight="500" style="white-space:pre;text-transform:none">Label small green</tspan>
+    </text>
+  </g>
+  <g transform="translate(468.5 2663)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-100"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-101)" xlink:href="#path-100"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="13.538" y="20" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Label medium white</tspan>
+    </text>
+  </g>
+  <g transform="translate(475 2708)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-103)" xlink:href="#path-102"/>
+      <use fill="rgb(105,165,255)" xlink:href="#path-102"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.671" y="20" fill="rgb(255,255,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Label medium blue</tspan>
+    </text>
+  </g>
+  <g transform="translate(478.5 2798)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-105)" xlink:href="#path-104"/>
+      <use fill="rgb(255,105,105)" xlink:href="#path-104"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.174" y="20" fill="rgb(255,255,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Label medium red</tspan>
+    </text>
+  </g>
+  <g transform="translate(470.5 2753)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-107)" xlink:href="#path-106"/>
+      <use fill="rgb(51,204,175)" xlink:href="#path-106"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11.188" y="20" fill="rgb(255,255,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Label medium green</tspan>
+    </text>
+  </g>
+  <g transform="translate(675 2642)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-108"/>
+      <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-109)" xlink:href="#path-108"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20.68" y="24" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Label large white</tspan>
+    </text>
+  </g>
+  <g transform="translate(703 2694)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-111)" xlink:href="#path-110"/>
+      <use fill="rgb(105,165,255)" xlink:href="#path-110"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.832" y="24" fill="rgb(255,255,255)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Label large blue</tspan>
+    </text>
+  </g>
+  <g transform="translate(695 2747)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-113)" xlink:href="#path-112"/>
+      <use fill="rgb(51,204,175)" xlink:href="#path-112"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.28" y="24" fill="rgb(255,255,255)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Label large green</tspan>
+    </text>
+  </g>
+  <g transform="translate(709 2800)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-115)" xlink:href="#path-114"/>
+      <use fill="rgb(255,105,105)" xlink:href="#path-114"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11.264" y="24" fill="rgb(255,255,255)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Label large red</tspan>
+    </text>
+  </g>
+  <g transform="translate(297 2829)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-117)" xlink:href="#path-116"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-116"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.232" y="17" fill="rgb(255,255,255)" font-family="Athiti" font-size="12" font-weight="500" style="white-space:pre;text-transform:none">Label small yellow</tspan>
+    </text>
+  </g>
+  <g transform="translate(469 2840)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-119)" xlink:href="#path-118"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-118"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.07" y="20" fill="rgb(255,255,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Label medium yellow</tspan>
+    </text>
+  </g>
+  <g transform="translate(689 2849)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-121)" xlink:href="#path-120"/>
+      <use fill="rgb(249,199,61)" xlink:href="#path-120"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10.288" y="24" fill="rgb(255,255,255)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Label large yellow</tspan>
+    </text>
+  </g>
+  <g transform="translate(41 2733)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-122"/>
+      <use fill-opacity="0" stroke="rgb(51,204,175)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-123)" xlink:href="#path-122"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10" y="20" fill="rgb(51,204,175)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">Button outline green</tspan>
+    </text>
+  </g>
+  <g transform="translate(41 2772)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-124"/>
+      <use fill-opacity="0" stroke="rgb(255,105,105)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-125)" xlink:href="#path-124"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10" y="20" fill="rgb(255,105,105)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">Button outline red</tspan>
+    </text>
+  </g>
+  <g transform="translate(41 2811)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-126"/>
+      <use fill-opacity="0" stroke="rgb(105,165,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-127)" xlink:href="#path-126"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10" y="20" fill="rgb(105,165,255)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">Button outline blue</tspan>
+    </text>
+  </g>
+  <g transform="translate(41 2694)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-128"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-129)" xlink:href="#path-128"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10" y="20" fill="rgb(249,199,61)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">Button outline yellow</tspan>
+    </text>
+  </g>
+  <g transform="translate(36 2600)">
+    <g>
+      <use fill="rgb(249,199,61)" xlink:href="#path-130"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-131)" xlink:href="#path-130"/>
+    </g>
+    <g>
+      <use fill="none" xlink:href="#rect-132"/>
+      <g mask="url(#mask-133)">
+        <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M5.625 11.25c.25 0 .48625-.09875.6625-.276875l6.03-6.145625c.24375-.246875.24375-.645625 0-.8925-.24375-.246875-.64-.246875-.88375 0L5.625 9.8575 3.566875 7.685c-.24375-.2475-.639375-.2475-.88375 0-.24375.246875-.24375.645625 0 .8925l2.27875 2.395625c.176875.178125.41125.276875.6625.276875H5.625z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path fill="rgb(105,165,255)" fill-opacity=".2" fill-rule="evenodd" d="M170 1898h65c5.51915024 0 10 4.48084976 10 10s-4.48084976 10-10 10h-65c-5.51915024 0-10-4.48084976-10-10s4.48084976-10 10-10z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="165.03" y="1912" fill="rgb(105,165,255)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Pill small blue</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(105,165,255)" fill-opacity=".2" fill-rule="evenodd" d="M185.5 1923h60c6.8989378 0 12.5 5.6010622 12.5 12.5s-5.6010622 12.5-12.5 12.5h-60c-6.8989378 0-12.5-5.6010622-12.5-12.5s5.6010622-12.5 12.5-12.5z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="178.03" y="1939" fill="rgb(105,165,255)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Pill small blue</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(255,105,105)" fill-opacity=".2" fill-rule="evenodd" d="M265 1898h60c5.51915024 0 10 4.48084976 10 10s-4.48084976 10-10 10h-60c-5.51915024 0-10-4.48084976-10-10s4.48084976-10 10-10z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="260.188" y="1912" fill="rgb(255,105,105)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Pill small red</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(249,199,61)" fill-opacity=".2" fill-rule="evenodd" d="M55 1898h85c5.51915024 0 10 4.48084976 10 10s-4.48084976 10-10 10H55c-5.51915024 0-10-4.48084976-10-10s4.48084976-10 10-10z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="54.108" y="1912" fill="rgb(249,199,61)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Pill small yellow</tspan>
+    </text>
+  </g>
+  <path fill="rgb(249,199,61)" fill-opacity=".2" fill-rule="evenodd" d="M57.5 1923h93c6.8989378 0 12.5 5.6010622 12.5 12.5s-5.6010622 12.5-12.5 12.5h-93c-6.8989378 0-12.5-5.6010622-12.5-12.5s5.6010622-12.5 12.5-12.5z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="51.848" y="1940" fill="rgb(249,199,61)" font-family="Athiti" font-size="16" font-weight="500" style="white-space:pre;text-transform:none">Pill med yellow</tspan>
+  </text>
+  <g transform="translate(167 1788)">
+    <path fill="rgb(105,165,255)" fill-opacity=".2" fill-rule="evenodd" d="M4 0h92c2.2076601 0 4 1.7923399 4 4v12c0 2.2076601-1.7923399 4-4 4H4c-2.2076601 0-4-1.7923399-4-4V4c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="5.048" y="14" fill="rgb(105,165,255)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Badge small blue</tspan>
+    </text>
+  </g>
+  <g transform="translate(277 1788)">
+    <path fill="rgb(255,105,105)" fill-opacity=".2" fill-rule="evenodd" d="M4 0h87c2.2076601 0 4 1.7923399 4 4v12c0 2.2076601-1.7923399 4-4 4H4c-2.2076601 0-4-1.7923399-4-4V4c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="5.206" y="14" fill="rgb(255,105,105)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Badge small red</tspan>
+    </text>
+  </g>
+  <g transform="translate(45 1788)">
+    <path fill="rgb(249,199,61)" fill-opacity=".2" fill-rule="evenodd" d="M4 0h104c2.2076601 0 4 1.7923399 4 4v12c0 2.2076601-1.7923399 4-4 4H4c-2.2076601 0-4-1.7923399-4-4V4c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="5.126" y="14" fill="rgb(249,199,61)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Badge small yellow</tspan>
+    </text>
+  </g>
+  <g transform="translate(382 1788)">
+    <path fill="rgb(51,204,175)" fill-opacity=".2" fill-rule="evenodd" d="M4 0h99c2.2076601 0 4 1.7923399 4 4v12c0 2.2076601-1.7923399 4-4 4H4c-2.2076601 0-4-1.7923399-4-4V4c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="4.996" y="14" fill="rgb(51,204,175)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Badge small green</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(105,165,255)" fill-opacity=".2" fill-rule="evenodd" d="M188 1818h101c2.2076601 0 4 1.7923399 4 4v17c0 2.2076601-1.7923399 4-4 4H188c-2.2076601 0-4-1.7923399-4-4v-17c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="190.886" y="1835" fill="rgb(105,165,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Badge med blue</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(255,105,105)" fill-opacity=".2" fill-rule="evenodd" d="M307 1818h101c2.2076601 0 4 1.7923399 4 4v17c0 2.2076601-1.7923399 4-4 4H307c-2.2076601 0-4-1.7923399-4-4v-17c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="312.889" y="1835" fill="rgb(255,105,105)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Badge med red</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(249,199,61)" fill-opacity=".2" fill-rule="evenodd" d="M49 1818h121c2.2076601 0 4 1.7923399 4 4v17c0 2.2076601-1.7923399 4-4 4H49c-2.2076601 0-4-1.7923399-4-4v-17c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="55.285" y="1835" fill="rgb(249,199,61)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Badge med yellow</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(51,204,175)" fill-opacity=".2" fill-rule="evenodd" d="M426 1818h109c2.2076601 0 4 1.7923399 4 4v17c0 2.2076601-1.7923399 4-4 4H426c-2.2076601 0-4-1.7923399-4-4v-17c0-2.2076601 1.7923399-4 4-4z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="428.903" y="1835" fill="rgb(51,204,175)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none">Badge med green</tspan>
+    </text>
+  </g>
+  <g>
+    <path fill="rgb(51,204,175)" fill-opacity=".2" fill-rule="evenodd" d="M355 1898h72c5.51915024 0 10 4.48084976 10 10s-4.48084976 10-10 10h-72c-5.51915024 0-10-4.48084976-10-10s4.48084976-10 10-10z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="349.978" y="1912" fill="rgb(51,204,175)" font-family="Athiti" font-size="12" font-weight="600" style="white-space:pre;text-transform:none">Pill small green</tspan>
+    </text>
+  </g>
+  <g transform="translate(158 2467)">
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-149"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-150)" xlink:href="#path-149"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="10" y="25" fill="rgb(249,199,61)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">Button outline yellow</tspan>
+    </text>
+  </g>
+</svg>

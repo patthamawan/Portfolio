@@ -1,4 +1,3 @@
-
 const ProjectData = [
   {
     id: "Project_listening",
@@ -28,7 +27,7 @@ const ProjectData = [
         img: "analytic.png",
       },
     ],
-    responsible: "The goal is to improve user experience with a brand new visual so that it’s easier to read and understand the content. I was in charge of the UI design using Sketch and Adobe XD to create prototypes. Turn UI concept into HTML/CSS using SASS and React framework on the projects."
+    responsible: "My goal on this project was to improve user experience with better data visualisation so that it is easier to read and understand the contents. I created prototypes using Sketch and Adobe XD, and turned UI concept into HTML/CSS using SASS and React framework."
   },
 
   {
@@ -55,7 +54,7 @@ const ProjectData = [
         img: "agent_status.png",
       },
     ],
-    responsible: "The goal is to create a new and cleaner look for the product. I was in charge of the UI design using Sketch and Adobe XD to create prototypes and turn UI concept into HTML/CSS using SASS and React framework on the projects."
+    responsible: "My goal on this project was to create a new and cleaner look for the product. I created prototypes using Sketch and Adobe XD, and turned UI concept into HTML/CSS using SASS and React framework."
       
   },
 
@@ -83,7 +82,7 @@ const ProjectData = [
         img: "search_message_t-m.png",
       },
     ],
-    responsible: "I Led the design process, managed business expectations and provided regular progress updates. Worked closely with the product owners to create the product. I used Invision studio to create prototypes for the design process and turn UI concept into HTML/CSS using SASS and React framework on the projects."
+    responsible: "My goal on this project was to create a design for Zanroo search. I used Invision Studio to create prototypes and turned UI concept into HTML/CSS using SASS and React framework."
   },
 
   {
@@ -95,23 +94,32 @@ const ProjectData = [
     images: [
       {
         id: "img_1",
-        img: "search_home.png",
+        img: "oscar1.svg",
       },
       {
         id: "img_2",
-        img: "search_message.png",
+        img: "oscar0.svg",
       },
       {
         id: "img_3",
-        img: "Raferal.png",
+        img: "oscar2.svg",
       },
       {
         id: "img_4",
-        img: "search_message_t-m.png",
+        img: "oscar3.svg",
+      },
+      {
+        id: "img_5",
+        img: "oscar5.png",
+      },
+      {
+        id: "img_6",
+        img: "oscar4.svg",
       },
     ],
-    responsible: "The goal is to create a software that help the employee work faster and less paperwork. I’m in charge of designing the product. Mood and tone, Logo design, UI design and implementing HTML/CSS using SASS and React framework."
+    responsible: "My goal on this project was to create a software that help the employee work faster and less paperwork. I’m in charge of designing the product. Mood and tone, Logo design, UI design and implementing HTML/CSS using SASS and React framework."
   },
 ]
 
 export default ProjectData
+

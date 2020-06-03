@@ -2,9 +2,6 @@ import React from 'react';
 import {} from 'react-bootstrap';
 
 
-import Animation from '../../../static/coming_soon.gif'
-import Animation2 from '../../../static/coming.png'
-import Animation3 from '../../../static/Coming_Soon_Animation.png'
 const RightSide = () => {
   return (
     <React.Fragment>

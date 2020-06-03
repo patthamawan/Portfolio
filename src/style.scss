@@ -37,6 +37,7 @@
     color: #000;
     font-size: 14px;
     margin: 0;
+    line-height: 2;
   }
   p.title {
     font-family: 'Fredoka One';
@@ -98,11 +99,6 @@
         display: flex;
         justify-content: center;
       }
-      // .smile {
-      //   background-color: #FF9CBB;
-      //   height: 30px;
-      //   width: 150px;
-      // }
     }
     .eye-ball {
       margin: 0 10px;
@@ -156,18 +152,13 @@
       .coming-soon {
         margin-top: 50px;
         .animation-gif {
-          background-image: url('./static/coming_soon_static.png');
+          background-image: url('./static/coming_soon.gif');
           background-size: contain;
           background-repeat: no-repeat;
-          height: 300px;
+          height: 350px;
           background-position: 50%;
           transition-duration: 1s;
-          opacity: 0;
-        }
-        img {
-          width: 50%;
-          object-position: 0px 50px;
-          transition-duration: 1s;
+          animation-play-state:paused;
           opacity: 0;
         }
       }
@@ -194,10 +185,11 @@
       opacity: 1;
     }
     .coming-soon .animation-gif {
-      background-image: url('./static/coming_soon.gif');
       opacity: 1;
     }
   }
+
+
 /* ======================= */
 
 /* About */
@@ -206,7 +198,7 @@
       position: relative;
       top: 50px;
       h1 {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
       }
       .text {
         line-height: 26px;
@@ -320,35 +312,46 @@
     display: flex;
     align-items: center;
     .intro {
-      height: calc(100vh - 130px);
-      width: 50%;
+      height: calc(100vh - 150px);
+      width: 55%;
       h3 {
         margin-bottom: 20px;
+      }
+      .software {
+        width: 90%;
+        margin-bottom: 30px;
+        img {
+          margin-right: 15px;
+          margin-bottom: 10px;
+          width: 50px;
+        }
       }
       .bottom {
         position: absolute;
         bottom: 20px;
-        .software {
-          width: 80%;
-          margin-bottom: 30px;
-          img {
-            margin-right: 15px;
-            margin-bottom: 10px;
-            width: 50px;
-          }
-        }
         .download {
           margin-bottom: 30px;
           h5 {
-            font-size: 12px;
-            margin-bottom: 0;
+            font-size: 14px;
+            margin-bottom: 15px;
           }
           a {
             cursor: pointer;
-            font-size: 14px;
+            font-size: 16px;
+            border: 1px dashed;
+            padding: 7px 15px;
+            border-radius: 10px;
+            margin-top: 12px;
+            display: block;
             &:hover {
+              background-color: #b3e3ff;
               color: $ancherHoverColor;
               text-decoration: none;
+              font-weight: bold;
+            }
+            &:nth-child(3) {
+              font-size: 14px;
+              padding: 7px 10px;
             }
           } 
         }

@@ -15,14 +15,17 @@ const About = () => {
               <h1>ABOUT ME .</h1>            
               <div className="text">
                 <p>
-                My name is Patthamawan Iteeyaporn or Nune for short. I have 4 years experience in UX/UI design and another 4 years in 3d character animation. 
-                I am a self taught designer and and recently React frontend developer.
-                In my most recent role as a UX/UI designer, I worked closely with the product owners to conduct user research and user testing to improve the product and add new features.
-                Designing a visual for the product and implementing HTML/CSS ready for the development team. Zanroo has many different type of products so I improved upon my team work and 
-                communication skills in group assignments, whilst developing my organisation skills and self motivation by working on self innovated projects.
+                  My name is Patthamawan Iteeyaporn or Nune for short. I have 8 years commercial experience in total - 
+                  4 years spent in 3D character animation and subsequently 4 years in UX/UI design.
+                  I studied 3D animation at Staffordshire University, and since then I have branched out into web design with a passion for putting the user experience first.
+                  
+                  Over the years, I have gained invaluable experience from working with various stakeholders within a startup environment 
+                  and have strong teamwork, communication and organisational skills. I am self motivated and I like working on personal 
+                  projects to keep on top of changes in the technology and continuously develop my skills. I recently became interested in 
+                  frontend development and taught myself REACT with the goal of designing and implementing a fully functional website.  
                 </p>
                 <p>
-                  In my sparetime I like to watch movies, listen to music, play video games, drawing and traveling.
+                  In my spare time, I like to watch movies, listen to music, play video games, draw and travel.
                 </p>
               </div>
             </Col>
