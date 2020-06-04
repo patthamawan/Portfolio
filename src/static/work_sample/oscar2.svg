@@ -9,40 +9,40 @@
       <rect width="1440" height="900" x="0" y="0" fill="black"/>
       <use fill="white" xlink:href="#rect-4"/>
     </mask>
-    <rect id="rect-35" width="20" height="20" x="560" y="14"/>
-    <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-34" fill-rule="evenodd" d="M220 247h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915024-4.48084975 10-10 10H220c-5.51915024 0-10-4.48084976-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
+    <mask id="mask-35" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="0" y="0" fill="black"/>
-      <use fill="white" xlink:href="#rect-35"/>
+      <use fill="white" xlink:href="#path-34"/>
     </mask>
-    <path id="path-39" fill-rule="evenodd" d="M220 247h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915024-4.48084975 10-10 10H220c-5.51915024 0-10-4.48084976-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
-    <mask id="mask-40" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-36" fill-rule="evenodd" d="M220 371.0000004h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915025-4.48084975 10-10 10H220c-5.51915024 0-10-4.48084975-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
+    <mask id="mask-37" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="0" y="0" fill="black"/>
-      <use fill="white" xlink:href="#path-39"/>
+      <use fill="white" xlink:href="#path-36"/>
     </mask>
-    <path id="path-41" fill-rule="evenodd" d="M220 371.0000004h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915025-4.48084975 10-10 10H220c-5.51915024 0-10-4.48084975-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
-    <mask id="mask-42" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-38" fill-rule="evenodd" d="M750 247.0000004h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915025-4.48084975 10-10 10H750c-5.51915024 0-10-4.48084975-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
+    <mask id="mask-39" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="0" y="0" fill="black"/>
-      <use fill="white" xlink:href="#path-41"/>
+      <use fill="white" xlink:href="#path-38"/>
     </mask>
-    <path id="path-43" fill-rule="evenodd" d="M750 247.0000004h480.0000098c5.51915025 0 10 4.48084976 10 10v89c0 5.51915025-4.48084975 10-10 10H750c-5.51915024 0-10-4.48084975-10-10v-89c0-5.51915024 4.48084976-10 10-10z"/>
-    <mask id="mask-44" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
-      <rect width="1440" height="900" x="0" y="0" fill="black"/>
-      <use fill="white" xlink:href="#path-43"/>
-    </mask>
-    <path id="path-45" fill-rule="evenodd" d="M10 0h70c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
-    <mask id="mask-46" x="-600" y="-310" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-40" fill-rule="evenodd" d="M10 0h70c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-41" x="-600" y="-310" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="-600" y="-310" fill="black"/>
-      <use fill="white" xlink:href="#path-45"/>
+      <use fill="white" xlink:href="#path-40"/>
     </mask>
-    <path id="path-47" fill-rule="evenodd" d="M10 0h70c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
-    <mask id="mask-48" x="-600" y="-432.839" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-42" fill-rule="evenodd" d="M10 0h70c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-43" x="-600" y="-432.839" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="-600" y="-432.839" fill="black"/>
-      <use fill="white" xlink:href="#path-47"/>
+      <use fill="white" xlink:href="#path-42"/>
     </mask>
-    <path id="path-49" fill-rule="evenodd" d="M10 0h83c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
-    <mask id="mask-50" x="-1117" y="-310" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+    <path id="path-44" fill-rule="evenodd" d="M10 0h83c5.51915024 0 10 4.48084976 10 10v11c0 5.51915024-4.48084976 10-10 10H10C4.48084976 31 0 26.51915024 0 21V10C0 4.48084976 4.48084976 0 10 0z"/>
+    <mask id="mask-45" x="-1117" y="-310" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
       <rect width="1440" height="900" x="-1117" y="-310" fill="black"/>
-      <use fill="white" xlink:href="#path-49"/>
+      <use fill="white" xlink:href="#path-44"/>
+    </mask>
+    <rect id="rect-47" width="20" height="20" x="980" y="154.5"/>
+    <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="1440" height="900" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-47"/>
     </mask>
   </defs>
   <rect width="1440" height="900" x="0" y="0" fill="rgb(255,255,255)"/>
@@ -68,8 +68,8 @@
   </g>
   <g>
     <g>
-      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M24.1685198 33.45827764S20 28.85733688 22.81667633 27.2899494c2.30167086-1.28080287 7.76586315-2.02161677 11.24903249-1.24882078.77936368.1729093 1.6323079.46302378 2.14271714.7413742C39 28.3049072 31.81080504 41.8933411 29.6826016 45c0 0-2.04031636-7.70759967-.59431724-13.12597688 0 0-.98117446 4.63575666.92163074 10.48008764.1584682.48672642.5503942.51853612.80845582.09319436 2.16617298-3.57031409 4.57551408-8.33493652 5.31576026-12.01048054.72818164-3.61563983-1.61978374-3.7132282-2.67020793-3.79968823-7.6169456-.62695111-11.16262137 3.69666715-9.29540343 6.8211413z"/>
-      <ellipse cx="29.679" cy="19.674" fill="rgb(19,28,43)" rx="4.68" ry="4.674"/>
+      <path fill="rgb(249,199,61)" fill-rule="evenodd" d="M24.1685198 33.45827764S20 28.85733688 22.81667633 27.2899494c2.30167086-1.28080287 7.76586315-2.02161677 11.24903249-1.24882078.77936368.1729093 1.6323079.46302378 2.14271714.7413742C39 28.3049072 31.81080504 41.8933411 29.6826016 45c0 0-2.04031636-7.70759967-.59431724-13.12597688 0 0-.98117446 4.63575666.92163074 10.48008764.1584682.48672642.5503942.51853612.80845582.09319436 2.16617298-3.57031409 4.57551408-8.33493652 5.31576026-12.01048054.72818164-3.61563983-1.61978374-3.7132282-2.67020793-3.79968823-7.6169456-.62695111-11.16262137 3.69666715-9.29540343 6.8211413z"/>
+      <ellipse cx="29.679" cy="19.674" fill="rgb(249,199,61)" rx="4.68" ry="4.674"/>
     </g>
     <g>
       <g>
@@ -102,104 +102,76 @@
       </g>
     </g>
   </g>
-  <text font-size="0" style="white-space:pre" transform="translate(665.42832734 90)">
-    <tspan x="0" y="18" fill="rgb(19,28,43)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:none">ติดตามงา</tspan>
-  </text>
-  <g transform="translate(420 140)">
-    <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M24 0h552c13.24596059 0 24 10.75403941 24 24s-10.75403941 24-24 24H24C10.75403941 48 0 37.24596059 0 24S10.75403941 0 24 0z"/>
-    <g opacity=".2">
-      <use fill="none" xlink:href="#rect-35"/>
-      <g mask="url(#mask-36)">
-        <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M560 21.5c0 4.13624954 3.36376953 7.5 7.5 7.5s7.5-3.36375046 7.5-7.5-3.36376953-7.5-7.5-7.5-7.5 3.36375046-7.5 7.5zm2.5 0c0-2.7574997 2.24249268-5 5-5s5 2.2425003 5 5-2.24249268 5-5 5-5-2.2425003-5-5z"/>
-        <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M578.75 34c-.32 0-.64-.1225-.88375-.36625l-6.25-6.25c-.48875-.48875-.48875-1.27875 0-1.7675s1.27875-.48875 1.7675 0l6.25 6.25c.48875.48875.48875 1.27875 0 1.7675C579.39 33.8775 579.07 34 578.75 34z"/>
-      </g>
-    </g>
-    <text font-size="0" style="white-space:pre">
-      <tspan x="20" y="30.5" fill="rgb(19,28,43)" font-family="Athiti" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">Search nam</tspan>
-    </text>
-  </g>
   <g>
-    <use fill="rgb(255,255,255)" xlink:href="#path-39"/>
-    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-40)" xlink:href="#path-39"/>
+    <use fill="rgb(255,255,255)" xlink:href="#path-34"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-35)" xlink:href="#path-34"/>
   </g>
   <text font-size="0" style="white-space:pre">
     <tspan x="230" y="331.5" fill="rgb(49,198,162)" font-family="Athiti" font-size="18" font-weight="400" style="white-space:pre;text-transform:none">**เสร็จแล้วรอรับรถ</tspan>
   </text>
   <g>
-    <use fill="rgb(255,255,255)" xlink:href="#path-41"/>
-    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-42)" xlink:href="#path-41"/>
+    <use fill="rgb(255,255,255)" xlink:href="#path-36"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-37)" xlink:href="#path-36"/>
   </g>
   <text font-size="0" style="white-space:pre">
     <tspan x="230" y="454.339" fill="rgb(234,186,55)" font-family="Athiti" font-size="18" font-weight="400" style="white-space:pre;text-transform:none">**รอการยืนยนใบเสนอราคา</tspan>
   </text>
   <g>
-    <use fill="rgb(255,255,255)" xlink:href="#path-43"/>
-    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-44)" xlink:href="#path-43"/>
+    <use fill="rgb(255,255,255)" xlink:href="#path-38"/>
+    <use fill-opacity="0" stroke="rgb(208,210,213)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-39)" xlink:href="#path-38"/>
   </g>
   <text font-size="0" style="white-space:pre">
     <tspan x="760" y="330.5" fill="rgb(230,101,101)" font-family="Athiti" font-size="16" font-weight="400" style="white-space:pre;text-transform:none">**รออะไหล่</tspan>
   </text>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(581 262.0019565)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 96</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(612 279.0019565)">
-      <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota </tspan>
-    </text>
-  </g>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(581 386)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 96</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(612 403)">
-      <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota </tspan>
-    </text>
-  </g>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(230 279.003913)">
-      <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(230.2060714 262)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมา</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre">
-      <tspan x="344" y="292.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
-    </text>
-  </g>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(230 403.003913)">
-      <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(230.2060714 386)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมา</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre">
-      <tspan x="344" y="416.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
-    </text>
-  </g>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(760 279.003913)">
-      <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre">
-      <tspan x="874" y="292.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(760.2060714 262)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมา</tspan>
-    </text>
-  </g>
-  <g>
-    <text font-size="0" style="white-space:pre" transform="translate(1111 262)">
-      <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 96</tspan>
-    </text>
-    <text font-size="0" style="white-space:pre" transform="translate(1142 279)">
-      <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota </tspan>
-    </text>
-  </g>
+  <text font-size="0" style="white-space:pre" transform="translate(1111 262)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 9678 นนทบุรี</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(760 279.003913)">
+    <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact Number :</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="874" y="292.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(230 403.003913)">
+    <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact Number :</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(230.2060714 386)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมาวรรณ อิทธิยาภรณ์</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(230 279.003913)">
+    <tspan x="0" y="15" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Contact Number :</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(230.2060714 262)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมาวรรณ อิทธิยาภรณ์</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(581 386)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 9678 นนทบุรี</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(581 262.0019565)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">กข 9678 นนทบุรี</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(612 279.0019565)">
+    <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota  Yaris</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(612 403)">
+    <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota  Yaris</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="344" y="292.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="344" y="416.004" fill="rgb(51,153,255)" font-family="Athiti" font-size="14" font-weight="500" style="white-space:pre;text-transform:none" text-decoration="underline">0918146841</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(760.2060714 262)">
+    <tspan x="0" y="14" fill="rgb(19,28,43)" font-family="Athiti" font-size="16" font-weight="600" style="white-space:pre;text-transform:none">ปัทมาวรรณ อิทธิยาภรณ์</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre" transform="translate(1142 279)">
+    <tspan x="0" y="13" fill="rgb(19,28,43)" font-family="Athiti" font-size="14" font-weight="400" style="white-space:pre;text-transform:none">Toyota  Yaris</tspan>
+  </text>
   <g transform="translate(600 310)">
     <g>
-      <use fill="rgb(255,255,255)" xlink:href="#path-45"/>
-      <use fill-opacity="0" stroke="rgb(51,204,175)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-46)" xlink:href="#path-45"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-40"/>
+      <use fill-opacity="0" stroke="rgb(51,204,175)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-41)" xlink:href="#path-40"/>
     </g>
     <text font-size="0" style="white-space:pre">
       <tspan x="18.5" y="20" fill="rgb(51,204,175)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">รับรถแล้ว</tspan>
@@ -207,8 +179,8 @@
   </g>
   <g transform="translate(600 432.83928341)">
     <g>
-      <use fill="rgb(255,255,255)" xlink:href="#path-47"/>
-      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-48)" xlink:href="#path-47"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-42"/>
+      <use fill-opacity="0" stroke="rgb(249,199,61)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-43)" xlink:href="#path-42"/>
     </g>
     <text font-size="0" style="white-space:pre">
       <tspan x="28.5" y="20" fill="rgb(249,199,61)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">ยืนยัน</tspan>
@@ -216,11 +188,25 @@
   </g>
   <g transform="translate(1117 310)">
     <g>
-      <use fill="rgb(255,255,255)" xlink:href="#path-49"/>
-      <use fill-opacity="0" stroke="rgb(255,105,105)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-50)" xlink:href="#path-49"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-44"/>
+      <use fill-opacity="0" stroke="rgb(255,105,105)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-45)" xlink:href="#path-44"/>
     </g>
     <text font-size="0" style="white-space:pre">
       <tspan x="10" y="20" fill="rgb(255,105,105)" font-family="Athiti" font-size="14" font-weight="600" style="white-space:pre;text-transform:none">เสร็จไม่ทันเวลา</tspan>
     </text>
   </g>
+  <path fill="rgb(247,247,249)" fill-rule="evenodd" d="M444 140.5h552c13.24596059 0 24 10.75403941 24 24s-10.75403941 24-24 24H444c-13.24596059 0-24-10.75403941-24-24s10.75403941-24 24-24z"/>
+  <g opacity=".2">
+    <use fill="none" xlink:href="#rect-47"/>
+    <g mask="url(#mask-48)">
+      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M980 162c0 4.13626099 3.36376953 7.5 7.5 7.5s7.5-3.36373901 7.5-7.5-3.36376953-7.5-7.5-7.5-7.5 3.36373901-7.5 7.5zm2.5 0c0-2.75750732 2.24249268-5 5-5s5 2.24249268 5 5-2.24249268 5-5 5-5-2.24249268-5-5z"/>
+      <path fill="rgb(19,28,43)" fill-rule="evenodd" d="M998.75 174.5c-.32 0-.64-.1225-.88375-.36625l-6.25-6.25c-.48875-.48875-.48875-1.27875 0-1.7675s1.27875-.48875 1.7675 0l6.25 6.25c.48875.48875.48875 1.27875 0 1.7675-.24375.24375-.56375.36625-.88375.36625z"/>
+    </g>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="440" y="171" fill="rgb(167,170,177)" font-family="Athiti" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">Search name,car,number plate ect</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="665" y="108" fill="rgb(19,28,43)" font-family="Athiti" font-size="24" font-weight="700" style="white-space:pre;text-transform:none">ติดตามงาน</tspan>
+  </text>
 </svg>
