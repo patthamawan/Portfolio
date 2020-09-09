@@ -11,7 +11,7 @@ const About = () => {
     return (
         <div className="about-me container">
           <Row>
-            <Col lg={5}>
+            <Col lg={6} md={12}>
               <h1>ABOUT ME .</h1>            
               <div className="text">
                 <p>
@@ -29,7 +29,7 @@ const About = () => {
                 </p>
               </div>
             </Col>
-            <Col lg={7}>
+            <Col lg={6} md={12}>
               <div className="photos">
                 <div className="polaroid">
                   <img src={Me}/>

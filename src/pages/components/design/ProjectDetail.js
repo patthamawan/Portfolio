@@ -5,7 +5,9 @@ import { Row, Col, Carousel } from 'react-bootstrap';
 import Pencil from '../../../static/pencil_sketch.png'
 
 import ProjectData from '../../config/ProjectData'
+import Folder from './Folder'
 
+const Folders = ProjectData.map( detail => <Folder key={detail.id} detail={detail} icon={detail} />)
 const ProjectDetail = (props) => {
 
   const { match: { params } } = props
@@ -43,14 +45,17 @@ const ProjectDetail = (props) => {
                 <p className="title">Responsibility</p>
               <p>{data.responsible}</p>
               </div>
+              <div className="back-btn">
+                <p><a href="/projects">Back</a></p>
+              </div>
             </div>
-            <a className="back-btn" href="/projects">
-              <p><i class="fas fa-arrow-left"></i>Back</p>
-            </a>
           </Col>
         </Row>
       </div>
       <img className="img-pencil" src={Pencil}/>
+      <div className="project-list">
+        {Folders}
+      </div>
     </div>
   )
 }

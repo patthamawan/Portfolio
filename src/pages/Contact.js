@@ -15,8 +15,10 @@ const Contact = () => {
         </div>
         <div>
           <h1>Contact.</h1>
-          <p><i class="fas fa-mobile-alt"></i>+44 7944 619 169</p>
-          <a href="mailto:p.iteeyaporn@gmail.com"><p><i class="fas fa-envelope"></i>p.iteeyaporn@gmail.com</p></a>
+          <p>07944 619 169</p>
+          <a href="mailto:p.iteeyaporn@gmail.com">
+            <p>p.iteeyaporn@gmail.com</p>
+          </a>
           
           <div className="social">
             <a href="https://www.linkedin.com/in/p-iteeyaporn-750a3936" target="_blank">
