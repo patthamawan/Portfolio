@@ -17,7 +17,7 @@ const ProjectData = [
       },
       {
         id: "img_3",
-        img: "panorama_2.svg",
+        img: "panorama_2.png",
       },
       {
         id: "img_4",
@@ -118,7 +118,7 @@ const ProjectData = [
       },
       {
         id: "img_6",
-        img: "oscar4.svg",
+        img: "oscar4.png",
       },
     ],
     responsible: "My goal on this project was to create a software that help the employee work faster and less paperwork. I’m in charge of designing the product including the mood and tone, Logo design, UI design and implementing HTML/CSS using SASS and React framework."
