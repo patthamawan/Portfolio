@@ -53,7 +53,7 @@ const Projects = () => {
         <div className="project-list">
           {Folders}
         </div>
-        </React.Fragment>
+      </React.Fragment>
     )
 }
 

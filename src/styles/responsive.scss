@@ -46,6 +46,16 @@
   img.doodle {
     margin-top: 30px;
   }
+
+  .project-list {
+    position: unset;
+    margin: 20px 15px;
+    width: auto;
+    transform: unset;
+    overflow: auto;
+    margin-top: 50px;
+  }
+
   .project-detail {
     .col-lg-8 {
       max-width: 55%;
@@ -147,10 +157,16 @@
       margin-top: 10px;
     }
   }
+
   .project-list {
     .project {
       height: 130px;
       width: 200px;
+      div {
+        p.title {
+          font-size: 14px;
+        }
+      }
     }
   }
   .project-detail {
@@ -341,6 +357,9 @@
     .download {
       margin-bottom: 20px;
     }
+  }
+  .project-list {
+    margin-top: 30px;
   }
   
   .project-detail {
