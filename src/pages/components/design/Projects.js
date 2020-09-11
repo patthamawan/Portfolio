@@ -25,7 +25,7 @@ const Projects = () => {
             <Row>
               <Col lg={6} md={12}>
                 <p className="ocupation-detail">
-                  As a UX/UI designer, I work closely with product owners across multiple projects to 
+                  As an UX/UI designer, I work closely with product owners across multiple projects to 
                   conduct user research and user testing to improve the product and add new features. 
                   I'm in charge of creating visual design and implementing HTML/CSS in some of the projects for development teams.
                   <br/>
