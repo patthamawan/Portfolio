@@ -531,6 +531,13 @@
   }
 /* ======================= */
 
+.video-list {
+  margin-top: 50px;
+  iframe {
+    width: 100%;
+    height: 360px;
+  }
+}
 /* Waves */
   .ocean {
     height: 300px; /* change the height of the waves here */
