@@ -21,12 +21,12 @@ const Projects = () => {
       <React.Fragment>
         <div className="container design-projects">
           <div className="intro">
-            <h1>I’M AN UX / UI DESGINER</h1>
+            <h1>I’M A UX / UI DESIGNER</h1>
             <Row>
               <Col lg={6} md={12}>
                 <p className="ocupation-detail">
-                  As an UX/UI designer, I work closely with product owners across multiple projects to 
-                  conduct user research and user testing to improve the product and add new features. 
+                  As a UX/UI designer, I work closely with product owners across multiple projects to
+                  conduct user research and user testing to improve the product and add new features.
                   I'm in charge of creating visual design and implementing HTML/CSS in some of the projects for development teams.
                   <br/>
                   Since June 2020, I have been working as a contractor for Botnoi Consulting Thailand.
