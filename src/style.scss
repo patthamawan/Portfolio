@@ -16,7 +16,7 @@
   $dotSize: 1px;
   $dotSpace: 20px;
 
-  
+
 /* Main */
   body {
     margin: 0;
@@ -174,7 +174,7 @@
         margin: 0px 30px;
         padding: 10px 30px;
         &:hover {
-          background: #d9f4fd; 
+          background: #d9f4fd;
         }
       }
     }
@@ -220,7 +220,7 @@
           transform: rotate(-20deg);
           -webkit-transform: rotate(-20deg);
           -moz-transform: rotate(-20deg);
-          
+
         }
         &:nth-child(3) {
           left: 40%;
@@ -345,7 +345,7 @@
     a {
       cursor: pointer;
       font-size: 16px;
-    } 
+    }
   }
   .project-list {
     position: fixed;
@@ -411,7 +411,6 @@
     background-image: url('./static/botnoi.svg');
   }
 
-
 /* ======================= */
 
 /* Project Detail */
@@ -427,7 +426,7 @@
           h4 {
             margin-bottom: 0;
           }
-          
+
           p {
             opacity: 0.6;
           }
@@ -531,13 +530,26 @@
   }
 /* ======================= */
 
-.video-list {
-  margin-top: 50px;
-  iframe {
-    width: 100%;
-    height: 360px;
+
+.animation {
+  position: relative;
+  top: 30px;
+  .video {
+    margin-top: 20px;
+  }
+  .video-list {
+    display: flex;
+    justify-content: center;
+    iframe {
+      width: 100%;
+      height: 200px;
+      margin: 50px 15px;
+    }
   }
 }
+
+
+
 /* Waves */
   .ocean {
     height: 300px; /* change the height of the waves here */
@@ -548,7 +560,6 @@
     right: 0;
     overflow-x: hidden;
   }
-
   .wave {
     // background: url("../../personal_web/src/static/wave.svg");
     position: absolute;
@@ -557,7 +568,6 @@
     background-size: 100%;
     background-repeat: no-repeat;
   }
-
   @keyframes wave {
     0% {transform: translateX(0);}
     50% {transform: translateX(-25%);}
@@ -568,7 +578,3 @@
 
 
 @import './styles/responsive.scss';
-
-
-
-
