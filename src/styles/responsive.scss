@@ -108,6 +108,7 @@
       display: none;
     }
   }
+
 }
 
 
@@ -121,83 +122,12 @@
       transform: translate(-60%, 120px);
     }
   }
-  img.doodle {
-    display: none;
-  }
 
-  /* contact */
-  .contact {
-    .drawing {
-      img {
-        height: 500px;
-      }
-    }
-    h1 {
-      font-size: 50px;
-    }
-  }
+
+
 
   .container {
     max-width: 800px;
-  }
-  .design-projects {
-    text-align: center;
-    .intro {
-      h1 {
-        font-size: 50px;
-        margin-bottom: 20px;
-      }
-      .ocupation-detail  {
-        width: 100%;
-        margin-bottom: 30px;
-      }
-      .software {
-        width: 100%;
-      }
-    }
-    .download {
-      margin-top: 10px;
-    }
-  }
-
-  .project-list {
-    .project {
-      height: 130px;
-      width: 200px;
-      div {
-        p.title {
-          font-size: 14px;
-        }
-      }
-    }
-  }
-  .project-detail {
-    .col-lg-8,
-    .col-lg-4  {
-      max-width: unset;
-      flex: unset;
-    }
-    .carousel.slide {
-      margin: 0px;
-      .carousel-item img {
-        height: 500px;
-      }
-    }
-    .detail {
-      margin-top: 70px;
-    }
-    .project-list {
-      margin-top: 30px;
-      .project {
-        div {
-          top: 50px;
-          p.title {
-            font-size: 14px;
-          }
-        }
-      }
-    }
-
   }
 
   .homepage {
@@ -219,9 +149,7 @@
         }
       }
     }
-    img.welcome {
-      height: 38%;
-    }
+
   }
 
   /* animation */
@@ -232,11 +160,9 @@
       margin-top: 60px;
     }
     .video-list {
-      display: inline-block;
       margin: 30px 0;
       iframe {
-        height: 300px;
-        margin: 30px auto;
+        height: 420px;
       }
     }
   }
@@ -296,6 +222,14 @@
     .carousel.slide {
       .carousel-item img {
         height: 430px;
+      }
+    }
+  }
+  .animation {
+    .video-list {
+      iframe {
+        height: 350px;
+        margin: 10px auto;
       }
     }
   }
@@ -405,14 +339,11 @@
       padding-left: 0px;
       padding-right: 0px;
     }
-    .video {
-      width: 100% !important;
-      height: 250px !important;
-    }
+
     .video-list {
       iframe {
-        height: 200px;
-        margin: 15px auto;
+        height: 250px;
+        margin: 10px auto;
       }
     }
   }
